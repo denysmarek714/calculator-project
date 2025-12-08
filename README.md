@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Простий калькулятор
 Навчальний проєкт для вивчення Git та Python.
 
@@ -16,7 +15,3 @@ python calculator.py
 
 ## Автор
 Марек Денис КН-21
-=======
-# calculator-project
-calculator
->>>>>>> 578b760e74c78f7110dcd1b7a59510669d1a3aa1
